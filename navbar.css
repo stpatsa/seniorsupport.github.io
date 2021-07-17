@@ -11,6 +11,14 @@
 	}
 }
 
+body{
+	align-content: center;
+	background: url('LINK') no-repeat;
+	background-size: cover;
+	font-family: 'Arsenal Regular';
+	color: black;
+			margin:0px;
+}
 navbar {
 		overflow: hidden;
 		position: fixed;
