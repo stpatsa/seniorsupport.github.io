@@ -22,10 +22,10 @@
 	text-decoration: none;
 	font-size: 17px;
 }
-.topnav a:hover {
+.nav a:hover {
 	color: black;
 }
-.topnav a.active {
+.nav a.active {
 	background-color: #90a4ae;
 	color: white;
 }
