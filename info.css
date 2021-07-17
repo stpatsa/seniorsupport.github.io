@@ -6,7 +6,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #b2dfdb;
 }
 
 li {
@@ -66,4 +66,5 @@ footer {
 li a{
 	text-decoration: none;
 	color: white;
+	text-align: left;
 }
