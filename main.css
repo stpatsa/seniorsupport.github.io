@@ -12,12 +12,9 @@
 }
  /*------- Footer ------------*/
 
- page-footer {
+ footer {
 	width: 100%;
-	 background-color { 
-	 rgb(#90a4ae)
-	 text-align: left;}
-	 
+	background-color: #222;
 	padding: 60px 0px;
 	list-style: none;
 }
