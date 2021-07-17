@@ -1,0 +1,90 @@
+@media screen and (max-width : 760px){
+	ul{
+		position:static;
+		display:none;
+	}
+	li{
+		margin-bottom: 1px;
+	}
+	ul li, li a{
+		width:auto;
+	}
+}
+
+navbar {
+		overflow: hidden;
+		position: fixed;
+		width: 100%;
+		top:0px;
+			
+			
+}
+
+body{
+	align-content: center;
+	background: url('cloud_computing steelas edited by anik.jpg') no-repeat;
+	background-size: cover;
+	font-family: 'Arsenal Regular';
+	color: black;
+			margin:0px;
+}
+
+
+/*----- Div---*/
+ul{
+	align-content: center;
+	margin:0px;
+	padding: 0px;
+	list-style: none;
+	
+}
+
+/*----All the Links---*/
+ul li{
+	float: left;
+	width:200px;
+	height: 40px;
+	background-color: black;
+	opacity: .6;
+	line-height: 40px;
+	text-align: center;
+	font-size: 20px;
+	
+}
+
+/*----The Links Originally Grouped Together----*/
+ul li ul li{
+	float: left;
+	width:300px;
+	height: 40px;
+	background-color: black;
+	opacity: .6;
+	line-height: 40px;
+	text-align: left;
+	font-size: 20px;
+	
+}
+
+/*----The Actual Link---*/
+ul li a{
+	text-decoration: none;
+	color: white;
+	display: block;
+}
+
+/*----When the mouse hovers over the link for the main links---*/
+ul li a:hover{
+	background-color: cadetblue;
+}
+
+/*-----The links that were originally grouped together----*/
+ul li ul li{
+	
+	display: none;
+}
+
+/*----When the mouse hovers over the originally grouped links----*/
+ul li:hover ul li{
+	
+	display: block;
+}
