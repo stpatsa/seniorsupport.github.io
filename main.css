@@ -109,6 +109,7 @@ footer {
 	background-color: blue;
 	padding: 60px 0px;
 	list-style: none;
+	text align: left;
 }
 li a{
 	text-decoration: none;
