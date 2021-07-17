@@ -10,18 +10,34 @@
 #body {
 	text-align: center;
 }
-
-/*------- Boxes ------------*/
-	
-
- /*------- Footer ------------*/
-#footer {
-	width: 100%;
+.nav {
 	background-color: #b2dfdb;
+	overflow: hidden;
+}
+.nav a {
+	float: left;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+.topnav a:hover {
+	color: black;
+}
+.topnav a.active {
+	background-color: #90a4ae;
+	color: white;
+}
+ /*------- Footer ------------*/
+
+ footer {
+	width: 100%;
+	background-color: #22;
 	padding: 60px 0px;
 	list-style: none;
 }
-#li a{
+li a{
 	text-decoration: none;
 	color: white;
 }
