@@ -6,6 +6,11 @@
 )
 .card-panel-teal-lighten-4 {
 	rgb(#b2dfdb)
+	float: left;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	font-size: 17px;
 }
 #body {
 	text-align: center;
@@ -14,21 +19,7 @@
 	background-color: #b2dfdb;
 	overflow: hidden;
 }
-.nav a {
-	float: left;
-	color: white;
-	text-align: center;
-	padding: 14px 16px;
-	text-decoration: none;
-	font-size: 17px;
-}
-.nav a:hover {
-	color: black;
-}
-.nav a.active {
-	background-color: #90a4ae;
-	color: white;
-}
+
  /*------- Footer ------------*/
 
 footer {
