@@ -4,3 +4,16 @@
 .grey-text-blue-grey-lighten-2 {
   rgb(#90a4ae)
 )
+
+ /*------- Footer ------------*/
+
+ footer {
+	width: 100%;
+	background-color: rgb ##90a4ae;
+	padding: 60px 0px;
+	list-style: none;
+}
+li a{
+	text-decoration: none;
+	color: white;
+}
