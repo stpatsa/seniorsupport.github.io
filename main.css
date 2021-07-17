@@ -18,6 +18,10 @@
 .nav {
 	background-color: #b2dfdb;
 	overflow: hidden;
+	position: fixed;
+	width: 100%;
+	top:0px;
+			
 }
 /* Stuff Hannah added for the CSS*/
 	.stretch-card>.card {
