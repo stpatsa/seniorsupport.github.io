@@ -56,15 +56,3 @@ p{
 
 }
 
-/* Footer css */
-page-footer {
-	width: 100%;
-	background-color: #b2dfdb;
-	padding: 60px 0px;
-	list-style: none;
-}
-li a{
-	text-decoration: none;
-	color: white;
-	text-align: left;
-}
