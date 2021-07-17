@@ -6,7 +6,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: black;
+  background-color: #111;
 }
 
 li {
@@ -23,7 +23,7 @@ li a {
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-  background-color: black;
+  background-color: #111;
 }
 
 /* Formats the body of document */
