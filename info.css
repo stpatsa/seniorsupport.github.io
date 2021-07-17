@@ -23,7 +23,7 @@ li a {
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-  background-color: #111;
+  background-color: #b2dfdb;
 }
 
 /* Formats the body of document */
@@ -57,9 +57,9 @@ p{
 }
 
 /* Footer css */
-footer {
+page-footer {
 	width: 100%;
-	background-color: #222;
+	background-color: #b2dfdb;
 	padding: 60px 0px;
 	list-style: none;
 }
