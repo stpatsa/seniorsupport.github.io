@@ -18,6 +18,10 @@
 .card-img-top img-fluid {
 	padding: 10px;
 }
+.card-sub {
+	padding: 10px;
+}
+	
 .nav {
 	background-color: #b2dfdb;
 	overflow: hidden;
