@@ -11,12 +11,22 @@
 	}
 }
 
-
 navbar {
 		overflow: hidden;
 		position: fixed;
 		width: 100%;
-		top:0px;		
+		top:0px;
+			
+			
+}
+
+body{
+	align-content: center;
+	background: url('cloud_computing steelas edited by anik.jpg') no-repeat;
+	background-size: cover;
+	font-family: 'Arsenal Regular';
+	color: black;
+			margin:0px;
 }
 
 
