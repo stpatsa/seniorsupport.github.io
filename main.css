@@ -15,6 +15,9 @@
 #body {
 	text-align: center;
 }
+.card-img-top img-fluid {
+	padding: 10px;
+}
 .nav {
 	background-color: #b2dfdb;
 	overflow: hidden;
