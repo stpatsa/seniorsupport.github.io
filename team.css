@@ -1,0 +1,140 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {
+	font-family: "Arsenal Regular",sans-serif;
+	font-size: 20px;
+	padding: 0px;
+	line-height: 2;
+}
+#section-a{
+	padding:20px;
+	background:white;
+	color:black;
+	text-align:center;
+}
+
+/*------Meet the Team------*/
+
+#section-b{
+	padding: 20px;
+	background:white;
+	color: black;
+	text-align: center;
+}
+
+/*------Bios------*/
+
+#section-c{
+	display: flex;
+	
+}
+
+/*-----Contains all the boxes inside------*/
+
+#section-c div{
+	padding: 200px 200px;
+}
+
+
+/*------Boxes color scheme-----*/
+
+#section-c .box-1, #section-c .box-3{
+	background: #295D9B;
+	color: black;
+	
+}
+
+#section-c .box-2{
+	background: #f9f9f9;
+	color: black;
+	
+}
+
+/*----The actual photos and sizing of them------*/
+
+#section-c .box-1{
+	background-image:url("../Pictures used in website/HANNAH2-TEAMPROFILE.jpeg");
+	background-size: cover;
+	width: 33%;
+	height: 250px;
+	
+	
+}
+
+#section-c .box-2{
+	background-image:url("../Pictures used in website/STELLA-TEAMPROFILE.jpg");
+	background-size:cover;
+	width: 33%;
+	height: 250px;
+
+}
+
+#section-c .box-3{
+	background-image:url("../Pictures used in website/ANIK-TEAMPROFILE.jpg");
+	background-size: cover;
+	width: 33%;
+	height: 250px;
+}
+
+#section-d {
+	display: flex;
+	text-align: center;
+	overflow: hidden;
+	list-style: none;
+	font-size: 20px;
+	color: black;
+	text-decoration: none;
+	background: white;
+}
+
+#section-d div{
+	padding:50px;
+	padding-bottom:400px;
+
+}
+
+
+#section-d .box-4, #section-d .box-5, #section-d .box-6{
+	background: white;
+	color: #295D9B;
+	text-align:center;
+	
+}
+
+#section-d .box-4{
+	height: 50px;
+	width: 33%;
+	text-align:center;
+}
+
+#section-d .box-5{
+	height:50px;
+	width: 33%;
+	background-size:cover;
+	text-align:center;
+}
+
+#section-d .box-6{
+	background-size:cover;
+	height:50px;
+	width: 33%;
+	text-align:center;
+}
+
+/*------- Footer ------------*/
+
+ footer {
+	width: 100%;
+	background-color: #222;
+	padding: 60px 0px;
+	list-style: none;
+	 text-decoration: none;
+	 
+}
+
+li a{
+	text-decoration: none;
+	color: white;
+}
