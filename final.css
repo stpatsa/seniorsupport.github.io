@@ -112,14 +112,18 @@ body {
 	background-size: cover;
 	width: 33%;
 	height: 250px;
-	align: center;
+	display: flex;
+  	flex-direction: column;
+  	align-items: center;
 }
 #section-e .box-8{
 	background-image:url("news.png");
 	background-size: cover;
 	width: 33%;
 	height: 250px;
-	align: center;
+	display: flex;
+  	flex-direction: column;
+  	align-items: center;
 }
 
 #section-d {
@@ -187,6 +191,9 @@ body {
 	height:50px;
 	width: 33%;
 	text-align:center;
+	display: flex;
+  	flex-direction: column;
+  	align-items: center;
 }
 
 #section-f .box-10{
@@ -194,6 +201,9 @@ body {
 	height:50px;
 	width: 33%;
 	text-align:center;
+	display: flex;
+  	flex-direction: column;
+  	align-items: center;
 }
 
 /*------- Footer ------------*/
