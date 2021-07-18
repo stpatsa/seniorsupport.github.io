@@ -68,13 +68,13 @@ body {
 /*------Boxes color scheme-----*/
 
 #section-c .box-1, #section-c .box-3{
-	background: #295D9B;
+	  background-color: #6A5ACD;
 	color: black;
 	
 }
 
 #section-c .box-2{
-	background: #f9f9f9;
+	  background-color: #6A5ACD;
 	color: black;
 	
 }
@@ -119,13 +119,14 @@ body {
 #section-d div{
 	padding:50px;
 	padding-bottom:400px;
+	  background-color: #6A5ACD;
 	
 
 }
 
 
 #section-d .box-4, #section-d .box-5, #section-d .box-6{
-	background: white;
+	  background-color: #6A5ACD;
 	color: #295D9B;
 	text-align:center;
 	
@@ -142,6 +143,7 @@ body {
 	width: 33%;
 	background-size:cover;
 	text-align:center;
+	  background-color: #6A5ACD;
 }
 
 #section-d .box-6{
@@ -149,6 +151,7 @@ body {
 	height:50px;
 	width: 33%;
 	text-align:center;
+	  background-color: #6A5ACD;
 }
 
 /*------- Footer ------------*/
