@@ -41,6 +41,7 @@ main {
 	overflow: hidden;
 	float: left;
 	min-height: 700px;
+	background-color: #FFFAF0;
 }
 
 sidebar { 
@@ -48,6 +49,7 @@ sidebar {
 	float: left;
 	overflow: hidden;
 	min-height: 700px;
+	background-color: #FFFAF0;
 	
 }
 p{
