@@ -40,13 +40,13 @@ body {
 
 /*------Boxes color scheme-----*/
 
-#section-c .box-1, #section-c .box-3{
+#section-c .box-1, #section-c .box-3 {
 	background: #295D9B;
 	color: black;
 	
 }
 
-#section-c .box-2{
+#section-c .box-2, #section-c .box-7, #section-c .box-8 {
 	background: #f9f9f9;
 	color: black;
 	
@@ -77,6 +77,18 @@ body {
 	width: 33%;
 	height: 250px;
 }
+#section-c .box-7{
+	background-image:url("medical.jfif");
+	background-size: cover;
+	width: 33%;
+	height: 250px;
+}
+#section-c .box-8{
+	background-image:url("medical.jfif");
+	background-size: cover;
+	width: 33%;
+	height: 250px;
+}
 
 #section-d {
 	display: flex;
@@ -96,7 +108,7 @@ body {
 }
 
 
-#section-d .box-4, #section-d .box-5, #section-d .box-6{
+#section-d .box-4, #section-d .box-5, #section-d .box-6, #section-d .box-9, #section-d .box-10{
 	background: white;
 	color: #295D9B;
 	text-align:center;
@@ -117,6 +129,20 @@ body {
 }
 
 #section-d .box-6{
+	background-size:cover;
+	height:50px;
+	width: 33%;
+	text-align:center;
+}
+
+#section-d .box-9{
+	background-size:cover;
+	height:50px;
+	width: 33%;
+	text-align:center;
+}
+
+#section-d .box-10{
 	background-size:cover;
 	height:50px;
 	width: 33%;
