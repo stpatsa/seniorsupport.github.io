@@ -40,7 +40,7 @@ body {
 
 #section-b{
 	padding: 20px;
-	background:white;
+	background-color: #FFFAF0;
 	color: black;
 	text-align: center;
 }
@@ -49,20 +49,23 @@ body {
 
 #section-c{
 	display: flex;
-	
+	background-color: #FFFAF0;
 }
 
 #section-e{
 	display: flex;
+	background-color: #FFFAF0;
 }
 /*-----Contains all the boxes inside------*/
 
 #section-c div{
 	padding: 200px 200px;
+	background-color: #FFFAF0;
 }
 
 #section-e div{
 	padding: 200px 200px;
+	background-color: #FFFAF0;
 }
 /*------Boxes color scheme-----*/
 
