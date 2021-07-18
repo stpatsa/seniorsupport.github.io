@@ -55,7 +55,7 @@ body {
 /*----The actual photos and sizing of them------*/
 
 #section-c .box-1{
-	background-image:url("nice headshot.PNG");
+	background-image:url("tax.jfif");
 	background-size: cover;
 	width: 33%;
 	height: 250px;
@@ -64,7 +64,7 @@ body {
 }
 
 #section-c .box-2{
-	background-image:url("sahana.png");
+	background-image:url("medical.jfif");
 	background-size:cover;
 	width: 33%;
 	height: 250px;
@@ -72,7 +72,7 @@ body {
 }
 
 #section-c .box-3{
-	background-image:url("Natalia HHH111.jpeg");
+	background-image:url("translation.png");
 	background-size: cover;
 	width: 33%;
 	height: 250px;
