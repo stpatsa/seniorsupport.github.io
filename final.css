@@ -82,7 +82,7 @@ body {
 }
 
  #section-e .box-7, #section-e .box-8 {
-	background-color: #6A5ACD;
+	background-color: #FFFAF0;
 	color: black;
 	 
 	
@@ -139,13 +139,13 @@ body {
 	font-size: 20px;
 	color: black;
 	text-decoration: none;
-	background-color: #6A5ACD;
+	background-color: #FFFAF0;
 }
 
 #section-d div{
 	padding:50px;
 	padding-bottom:400px;
-	background-color: #6A5ACD;
+	background-color: #FFFAF0;
 
 }
 
@@ -157,17 +157,17 @@ body {
 	font-size: 20px;
 	color: black;
 	text-decoration: none;
- 	background-color: #6A5ACD;
+ 	background-color: #FFFAF0;
 }
 
 #section-f div{
 	padding:50px;
 	padding-bottom:400px;
-	background-color: #6A5ACD;
+	background-color: #FFFAF0;
 
 }
 #section-d .box-4, #section-d .box-5, #section-d .box-6, #section-f .box-9, #section-f .box-10{
-	background-color: #6A5ACD;
+	background-color: #FFFAF0;
 	color: #295D9B;
 	text-align:center;
 	
@@ -177,7 +177,7 @@ body {
 	height: 50px;
 	width: 33%;
 	text-align:center;
-	background-color: #6A5ACD;
+	background-color: #FFFAF0;
 }
 
 #section-d .box-5{
@@ -185,7 +185,7 @@ body {
 	width: 33%;
 	background-size:cover;
 	text-align:center;
-	background-color: #6A5ACD;
+	background-color: #FFFAF0;
 }
 
 #section-d .box-6{
@@ -193,7 +193,7 @@ body {
 	height:50px;
 	width: 33%;
 	text-align:center;
-	background-color: #6A5ACD;
+	background-color: #FFFAF0;
 }
 
 #section-f .box-9{
@@ -204,7 +204,7 @@ body {
 	display: flex;
   	flex-direction: column;
   	align-items: center;
-	background-color: #6A5ACD;
+	background-color: #FFFAF0;
 }
 
 #section-f .box-10{
@@ -215,7 +215,7 @@ body {
 	display: flex;
   	flex-direction: column;
   	align-items: center;
-	background-color: #6A5ACD;
+	background-color: #FFFAF0;
 }
 
 /*------- Footer ------------*/
