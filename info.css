@@ -48,12 +48,14 @@ sidebar {
 	float: left;
 	overflow: hidden;
 	min-height: 700px;
+	
 }
 p{
 	padding: 100px;
 	align-content: center;
 		margin-right: 150px;
 		margin-left: 150px;
+	background-color: #FFFAF0;
 
 }
 
