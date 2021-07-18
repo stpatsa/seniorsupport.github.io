@@ -40,7 +40,9 @@ body {
 	padding: 200px 200px;
 }
 
-
+#section-e div{
+	padding: 200px 200px;
+}
 /*------Boxes color scheme-----*/
 
 #section-c .box-1, #section-c .box-3 {
