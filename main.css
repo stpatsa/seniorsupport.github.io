@@ -34,7 +34,7 @@
 	text-align: center;
 }
 /* For the Main body */
-	body {
+.body {
 	font-family: "Arsenal Regular",sans-serif;
 	font-size: 20px;
 	padding: 0px;
