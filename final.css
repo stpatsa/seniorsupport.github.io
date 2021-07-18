@@ -110,7 +110,7 @@ body {
 }
 #section-e .box-7{
 	background-image:url("fakeee.png");
-	background-size: cover;
+	object-fit: contain;
 	width: 33%;
 	height: 250px;
 	display: flex;
@@ -119,7 +119,7 @@ body {
 }
 #section-e .box-8{
 	background-image:url("news.png");
-	background-size: cover;
+	object-fit: contain;
 	width: 33%;
 	height: 250px;
 	display: flex;
