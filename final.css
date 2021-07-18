@@ -108,16 +108,18 @@ body {
 	height: 250px;
 }
 #section-e .box-7{
-	background-image:url("fake news.png");
+	background-image:url("fakeee.png");
 	background-size: cover;
 	width: 33%;
 	height: 250px;
+	padding-left:150px;
 }
 #section-e .box-8{
 	background-image:url("news.png");
 	background-size: cover;
 	width: 33%;
 	height: 250px;
+	padding-right:150px;
 }
 
 #section-d {
