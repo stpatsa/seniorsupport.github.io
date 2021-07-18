@@ -112,14 +112,14 @@ body {
 	background-size: cover;
 	width: 33%;
 	height: 250px;
-	padding-left:150px;
+	align: center;
 }
 #section-e .box-8{
 	background-image:url("news.png");
 	background-size: cover;
 	width: 33%;
 	height: 250px;
-	padding-right:150px;
+	align: center;
 }
 
 #section-d {
